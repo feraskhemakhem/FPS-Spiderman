@@ -448,5 +448,5 @@ MigrationBackup/
 # End of https://www.gitignore.io/api/visualstudio,unrealengine,visualstudiocode
 
 # config and intermediate folders
-"FirstPersonDesign (1)"/Saved
-"FirstPersonDesign (1)"/Intermediate
+"FirstPersonDesign (1)"/Saved/*
+"FirstPersonDesign (1)"/Intermediate/*
